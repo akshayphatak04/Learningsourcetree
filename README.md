@@ -1,3 +1,1 @@
-# Learningsourcetree
-This is added by akshay on git
-SourcetreeLEarning
+Copied all content from release level
